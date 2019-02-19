@@ -1,0 +1,12 @@
+html, body {
+ height: 100%;
+ width: 100%;
+ background-color: aqua;
+}
+
+h1 {
+    padding-left: 500px;
+   display: flex;
+   align-items: flex-start;
+   font-family: 'Lobster', cursive;
+}
